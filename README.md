@@ -63,3 +63,21 @@ Capitulo 12
 ![]()
 
 ![]()
+
+# 4.VIDEO
+
+https://www.youtube.com/watch?v=AQRPjag5CKI
+
+# 5.CONCLUSIONES
+
+Se comprendiendo previamente los conceptos que se va a utilizar en la resolución de ejercicios nos permite resolverlos de manera más rápida y también nos permite saber como usarlo en la parte práctica.
+
+Observamos que los procesos de carga y descarga varían segun el tiempo.
+
+Los fasores proporcionan un método gráfico para representar cantidades que tienen tanto magnitud como dirección (posición angular).
+
+El osciloscopio es básicamente un dispositivo de visualización que traza, en su pantalla, una gráfica de una señal eléctrica medida.
+
+# 6.BIBLIOGRAFIA
+
+Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Pearson Educación

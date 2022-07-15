@@ -36,6 +36,7 @@ Capitulo 12
 
 # 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
+Capitulo 11
 ![](https://github.com/arielguano/Deber-6/blob/main/DEBER%20%236-01.png)
 
 ![](https://github.com/arielguano/Deber-6/blob/main/DEBER%20%236-02.png)
@@ -54,15 +55,29 @@ Capitulo 12
 
 ![](https://github.com/arielguano/Deber-6/blob/main/DEBER%20%236-09.png)
 
-![](https://github.com/arielguano/Deber-6/blob/main/DEBER%20%236-10.png)
+Capitulo 12
 
+![](https://github.com/arielguano/Deber-6/blob/main/Deber%206.1-01.png)
 
+![](https://github.com/arielguano/Deber-6/blob/main/Deber%206.1-02.png)
 
-![]()
+![](https://github.com/arielguano/Deber-6/blob/main/Deber%206.1-03.png)
 
-![]()
+![](https://github.com/arielguano/Deber-6/blob/main/Deber%206.1-04.png)
 
-![]()
+![](https://github.com/arielguano/Deber-6/blob/main/Deber%206.1-05.png)
+
+![](https://github.com/arielguano/Deber-6/blob/main/Deber%206.1-06.png)
+
+![](https://github.com/arielguano/Deber-6/blob/main/Deber%206.1-07.png)
+
+![](https://github.com/arielguano/Deber-6/blob/main/Deber%206.1-08.png)
+
+![](https://github.com/arielguano/Deber-6/blob/main/Deber%206.1-09.png)
+
+![](https://github.com/arielguano/Deber-6/blob/main/Deber%206.1-10.png)
+
+![](https://github.com/arielguano/Deber-6/blob/main/Deber%206.1-11.png)
 
 # 4.VIDEO
 

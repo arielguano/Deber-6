@@ -33,7 +33,7 @@ Capitulo 12
 
 ![](https://github.com/arielguano/Deber-6/blob/main/capacitancia.jpg)
 
-![](https://github.com/arielguano/Deber-6/blob/main/cap%2012.1.png)
+![](https://github.com/arielguano/Deber-6/blob/main/capacitores%202.png)
 
 # 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 

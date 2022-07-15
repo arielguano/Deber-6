@@ -22,7 +22,7 @@ Determinar que es la onda seno y su fórmula.
 
 Definir que son los fasores y el osciloscopio.
 
-#2.- MARCO TEÓRICO
+# 2.- MARCO TEÓRICO
 
 Capitulo 11
 

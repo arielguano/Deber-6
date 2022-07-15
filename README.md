@@ -35,6 +35,12 @@ Capitulo 12
 
 ![](https://github.com/arielguano/Deber-6/blob/main/capacitores%202.png)
 
+![](https://github.com/arielguano/Deber-6/blob/main/capacitores%202%20Parcial-1.png)
+
+![](https://github.com/arielguano/Deber-6/blob/main/capacitores%202%20Parcial-2.png)
+
+![](https://github.com/arielguano/Deber-6/blob/main/capacitores%202%20Parcial-3.png)
+
 # 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 Capitulo 11

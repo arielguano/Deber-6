@@ -31,7 +31,7 @@ Capitulo 11
 
 Capitulo 12
 
-![](https://github.com/arielguano/Deber-6/blob/main/capitulo%2012.jpg)
+![](https://github.com/arielguano/Deber-6/blob/main/capacitancia.jpg)
 
 ![](https://github.com/arielguano/Deber-6/blob/main/cap%2012.1.png)
 

@@ -23,4 +23,10 @@ Definir que son los fasores y el osciloscopio.
 
 capitulo 11
 
+![](https://github.com/arielguano/Deber-6/blob/main/cap%2011.png)
+
 capitulo 12
+
+![](https://github.com/arielguano/Deber-6/blob/main/capitulo%2012.jpg)
+
+![](https://github.com/arielguano/Deber-6/blob/main/cap%2012.1.png)

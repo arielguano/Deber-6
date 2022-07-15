@@ -28,6 +28,8 @@ Capitulo 11
 
 ![](https://github.com/arielguano/Deber-6/blob/main/cap%2011.png)
 
+![](https://github.com/arielguano/Deber-6/blob/main/cap%2011.png)
+
 Capitulo 12
 
 ![](https://github.com/arielguano/Deber-6/blob/main/capitulo%2012.jpg)

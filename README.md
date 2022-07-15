@@ -2,13 +2,13 @@
 
 # 1. Objetivo
 
-#Objetivo General
+Objetivo General
 
 Analizar y compreder los problemas utilizando los conocimientos de los capítulos 11-12 a la corriente y voltaje de forma alterna y como funcionan los capacitores, usando
 
 la teoría para la correcta aplicación de los temas en los ejercicios prácticos.
 
-# Objetivos específicos.
+ Objetivos específicos.
 
 Estudiar el valor de la intensidad instantánea que circula por un circuito RC conectado a una fuente de corriente contínua y de la carga que va adquiriendo un 
 

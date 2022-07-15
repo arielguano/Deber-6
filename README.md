@@ -1,5 +1,8 @@
 # Deber-6
-# 1.1 Objetivo General
+
+# 1. Objetivo
+
+#Objetivo General
 
 Analizar y compreder los problemas utilizando los conocimientos de los capítulos 11-12 a la corriente y voltaje de forma alterna y como funcionan los capacitores, usando
 
@@ -21,12 +24,42 @@ Definir que son los fasores y el osciloscopio.
 
 #2.- MARCO TEÓRICO
 
-capitulo 11
+Capitulo 11
 
 ![](https://github.com/arielguano/Deber-6/blob/main/cap%2011.png)
 
-capitulo 12
+Capitulo 12
 
 ![](https://github.com/arielguano/Deber-6/blob/main/capitulo%2012.jpg)
 
 ![](https://github.com/arielguano/Deber-6/blob/main/cap%2012.1.png)
+
+# 3.EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+![](https://github.com/arielguano/Deber-6/blob/main/DEBER%20%236-01.png)
+
+![](https://github.com/arielguano/Deber-6/blob/main/DEBER%20%236-02.png)
+
+![](https://github.com/arielguano/Deber-6/blob/main/DEBER%20%236-03.png)
+
+![](https://github.com/arielguano/Deber-6/blob/main/DEBER%20%236-04.png)
+
+![](https://github.com/arielguano/Deber-6/blob/main/DEBER%20%236-05.png)
+
+![](https://github.com/arielguano/Deber-6/blob/main/DEBER%20%236-06.png)
+
+![](https://github.com/arielguano/Deber-6/blob/main/DEBER%20%236-07.png)
+
+![](https://github.com/arielguano/Deber-6/blob/main/DEBER%20%236-08.png)
+
+![](https://github.com/arielguano/Deber-6/blob/main/DEBER%20%236-09.png)
+
+![](https://github.com/arielguano/Deber-6/blob/main/DEBER%20%236-10.png)
+
+
+
+![]()
+
+![]()
+
+![]()
